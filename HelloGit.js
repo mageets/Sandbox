@@ -5,9 +5,6 @@ var people = [
     {'name':'Cormac', 'age':35},
     {'name':'Edward', 'age':29}
 ];
-// people.forEach(function(element) {
-//     console.log('Hello ' + element.name + ' You are ' + element.age);
-// }, this);
 
 var totalNumberOfPeople = 0;
 var totalAge = 0;
@@ -24,11 +21,6 @@ people.forEach(function(person) {
     totalNumberOfPeople++;
 });
 console.log(totalNumberOfPeople + ' people, with a combined age of ' + totalAge);
-
-// var person = {name:'Paul', age:34};
-// for (var key in person) {
-//     console.log(person[key]);
-// }
 
 
 
