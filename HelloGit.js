@@ -10,7 +10,7 @@ Person.prototype.fullName = function() {
 
 var people = [
     new Person('Paul','Magee',34), 
-    new Person('Karen','Gallagher',34), 
+    new Person('Karen','Gallagher',19), 
     new Person('Neal','Simpson',39),
     new Person('Cormac','O\'Dowd',35), 
     new Person('Paul','Kelly',35), 
