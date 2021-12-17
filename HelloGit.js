@@ -14,7 +14,7 @@ var people = [
     new Person('Neal','Simpson',39),
     new Person('Cormac','O\'Dowd',35), 
     new Person('Paul','Kelly',35), 
-    new Person('Jim', 'Jones', 103)
+    new Person('Jimmy', 'Jones', 103)
 ];
 
 var totalNumberOfPeople = 0;
